@@ -1,0 +1,52 @@
+css -> Cascading Style Sheet  -> 1996
+
+css version ?
+    -> CSS3 (2014)
+
+
+HTML -> HTML5
+
+
+css ?????
+----------------
+
+html -> webpages -> style
+
+
+webpages -> single page / document -> output ->  web
+websites -> collections of webpages
+
+html -> Structure
+css -> Design / styling
+js -> Functionality / logic / Behavior
+
+web Applications ->
+
+    frontend
+        -> User See (Client Side)
+            -> HTML, CSS, JS
+
+    backend
+        -> Server side
+            -> Java / Python  / Node.js
+            -> Database
+                -> table -> creat, insert, update, delete, edit,
+
+                insert -> que -> add -> color -> storage -> model
+                update ->
+                delete ->
+                edit ->
+
+
+
+type dev
+
+        -> frontend
+        -> backend
+        -> data base
+        -> full satck
+
+--------------------------------------------------------------------------
+CSS
+
+
