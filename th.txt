@@ -56,3 +56,29 @@ CSS
     span     -> inline element
 
 
+----------------------------------------------------------
+
+CSS -> how many ways to write CSS 
+    3 types 
+        -> Inline CSS
+        -> Internal CSS
+        -> External CSS
+
+    file_name.css    -> ex -> html -> link 
+
+
+            syntax -> 
+
+                    selector  : id, class, tag name 
+
+                        property
+                        value 
+                        ;
+
+
+                        h1{
+                            property : value;   
+                            property2 : value;   
+                            property3 : value;   
+                            property4 : value;   
+                        }
