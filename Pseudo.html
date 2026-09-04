@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <style>
+    /* @import url('https://fonts.googleapis.com/css2?family=Betania+Patmos&display=swap'); */
+
+    @import url('https://fonts.googleapis.com/css2?family=Betania+Patmos&family=Caveat:wght@400..700&display=swap');
+
     /* Pseudo Class 
         hover  : 
         active :
@@ -15,39 +19,90 @@
         focus 
     */
 
-    a{
+    a {
         text-decoration: none;
     }
 
-    .social-links{
+    .social-links {
         font-size: 38px;
     }
 
-    .social-links:hover{
+    .social-links:hover {
         color: green;
         font-size: 42px;
     }
 
-    .social-links:active{
+    .social-links:active {
         background-color: black;
         color: goldenrod;
     }
 
-    .social-links:link{
+    .social-links:link {
         color: red;
     }
 
-    .social-links:visited{
+    .social-links:visited {
         color: gray;
     }
 
-    .social-links:focus{
+    .social-links:focus {
         color: blue;
         background-color: lightblue;
-        outline: 3px solid blue;    
+        outline: 3px solid blue;
     }
-    
 
+
+    /* 
+        Font family 
+            1. online
+            2. css Built-in fonts 
+    */
+
+    .social-links {
+
+        /* Built in */
+
+        /* ctrl space for sugg */
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+        font-size: 20px;
+        font-weight: 500;
+        /*100 - 900 -> font family*/
+        font-style: italic;
+
+    }
+
+
+    #facebook {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #instagram {
+
+        font-family: Georgia, 'Times New Roman', Times, serif;
+
+    }
+
+
+    #linkedin {
+
+        /* web : Google Fonts */
+
+        font-family: "Betania Patmos", cursive;
+        font-weight: 400;
+        font-style: normal;
+
+    }
+
+
+    .subtitle {
+
+        font-family: "Caveat", cursive;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        /* font-style: italic; */
+
+    }
 </style>
 
 <body>
