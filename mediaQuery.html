@@ -76,8 +76,6 @@
 
     @media(max-width:900px){
         .box{
-            display: block;
-            justify-content: space-around;
             height: 150px;
             width: 150px;
             background-color: goldenrod;
@@ -87,6 +85,23 @@
             font-size: 1.2rem;
             margin: 30px;
 
+        }
+
+        /* .container{
+            display: block;
+        } */
+
+
+        #box-5, #box-6{
+            display: none;
+        }
+
+        .container{
+            flex-wrap: wrap;
+        }
+
+        body{
+            padding: 0;
         }
     }
 
